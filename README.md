@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MaxwellOldshein
+- 👀 I’m interested in the intersection between technology and finance
+- 🌱 I’m currently learning React, Spring Boot, and 
+- 💞️ I’m looking to collaborate on interesting code that financially improves people's day-to-day lives 
+- 📫 maxwell.oldshein@gmail.com
