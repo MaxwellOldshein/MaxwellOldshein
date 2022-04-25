@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxwellOldshein
-- 👀 I’m interested in the intersection between technology and finance
-- 🌱 I’m currently working on improving my skills in AWS, Go, and Python
-- 💞️ I’m looking to collaborate on interesting code that financially improves people's day-to-day lives 
-- 📫 maxwell.oldshein@gmail.com
+- 👀 I’m interested in the intersection between technology and real-estate
+- 🌱 I’m currently working on improving my skills in Kotlin and Google Cloud
+- 💞️ I’m looking to collaborate on interesting code that improves people's day-to-day lives 
+- 📫 maxwell.oldshein@spruce.co
