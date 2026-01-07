@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MaxwellOldshein
-- 👀 I’m interested in the intersection between technology and real-estate
-- 🌱 I’m currently working on improving my skills in Kotlin and Google Cloud
-- 💞️ I’m looking to collaborate on interesting code that improves people's day-to-day lives 
-- 📫 maxwell.oldshein@spruce.co
+- 👋 Hi, I’m @MaxwellOldshein.
+- 👀 I’m interested in the intersection between technology and information security.
+- 🌱 I’m currently working on improving my skills in Cybersecurity.
+- 💞️ I’m looking to collaborate on interesting code that improves people's day-to-day lives from a security perspective.
